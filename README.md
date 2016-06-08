@@ -1,3 +1,0 @@
-"# paypal" 
-"# test" 
-"# test" 
