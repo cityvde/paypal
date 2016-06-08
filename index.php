@@ -3,7 +3,7 @@
 <html>
   <head>
     <meta charset="utf-8" />
-    <title>Paiment PAypal</title>
+    <title>Paiment PAypal ...</title>
   </head>
   <body>
     <form action="https://www.sandbox.paypal.com/cgi-bin/webscr" method="post">
