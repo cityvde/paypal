@@ -1,5 +1,5 @@
 <?php
-$file = fopen("/tuto/paiement/retour.log", "a");
+$file = fopen("/tuto/paiement/retour.log", "a"); //evolution
 fwrite($file,"Debut ipn.php"."\r\n");
 fclose($file);
 
